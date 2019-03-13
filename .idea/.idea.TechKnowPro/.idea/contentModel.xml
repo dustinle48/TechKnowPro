@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TechKnowPro" t="IncludeRecursive">
+        <e p="App_Data" t="Include">
+          <e p="Customers.mdf" t="Include" />
+          <e p="Customers_log.ldf" t="Include" />
+        </e>
+        <e p="Bin" t="ExcludeRecursive" />
+        <e p="ForgotPassword.aspx" t="Include" />
+        <e p="ForgotPassword.aspx.cs" t="Include" />
+        <e p="ForgotPassword.aspx.designer.cs" t="Include" />
+        <e p="Home.aspx" t="Include" />
+        <e p="Home.aspx.cs" t="Include" />
+        <e p="Home.aspx.designer.cs" t="Include" />
+        <e p="LoginForm.aspx" t="Include" />
+        <e p="LoginForm.aspx.cs" t="Include" />
+        <e p="LoginForm.aspx.designer.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Registration.aspx" t="Include" />
+        <e p="Registration.aspx.cs" t="Include" />
+        <e p="Registration.aspx.designer.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="jquery-3.3.1.intellisense.js" t="Include" />
+          <e p="jquery-3.3.1.js" t="Include" />
+          <e p="jquery-3.3.1.min.js" t="Include" />
+          <e p="jquery-3.3.1.min.map" t="Include" />
+          <e p="jquery-3.3.1.slim.js" t="Include" />
+          <e p="jquery-3.3.1.slim.min.js" t="Include" />
+          <e p="jquery-3.3.1.slim.min.map" t="Include" />
+        </e>
+        <e p="StyleSheet.css" t="Include" />
+        <e p="SuccessfulRegister.aspx" t="Include" />
+        <e p="SuccessfulRegister.aspx.cs" t="Include" />
+        <e p="SuccessfulRegister.aspx.designer.cs" t="Include" />
+        <e p="TechKnowPro.csproj" t="IncludeRecursive" />
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="TechKnowPro.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_TechKnowPro.-2066349920.00" t="ExcludeRecursive" />
+  </component>
+</project>

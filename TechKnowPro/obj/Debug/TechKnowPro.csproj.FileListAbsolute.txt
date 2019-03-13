@@ -1,0 +1,317 @@
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/TechKnowPro.dll.config
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/TechKnowPro.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/TechKnowPro.pdb
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/csc.exe
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/csc.exe.config
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/csc.rsp
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/csi.exe
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/csi.exe.config
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/csi.rsp
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CSharp.Core.targets
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.Managed.Core.targets
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.VisualBasic.Core.targets
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.AppContext.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Collections.Immutable.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Console.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Diagnostics.StackTrace.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.Compression.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.FileSystem.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.FileSystem.Primitives.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.Pipes.AccessControl.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.Pipes.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Reflection.Metadata.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.AccessControl.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Claims.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Cryptography.Encoding.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Cryptography.Primitives.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Principal.Windows.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Text.Encoding.CodePages.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.ValueTuple.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Xml.ReaderWriter.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Xml.XmlDocument.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Xml.XPath.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Xml.XPath.XDocument.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/vbc.exe
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/vbc.exe.config
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/vbc.rsp
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/VBCSCompiler.exe
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/VBCSCompiler.exe.config
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.csprojAssemblyReference.cache
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.csproj.CoreCompileInputs.cache
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.csproj.CopyComplete
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.pdb
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.Build.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.Build.Framework.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/System.Collections.Immutable.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/System.IO.Compression.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/System.Threading.Tasks.Dataflow.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/cs/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/de/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/en/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/es/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/fr/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/it/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/ja/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/ko/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/pl/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/pt-BR/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/ru/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/tr/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/zh-Hans/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/zh-Hant/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139/Assignment 1/TechKnowPro/TechKnowPro/bin/AspNet.ScriptManager.jQuery.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/TechKnowPro.dll.config
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/TechKnowPro.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/TechKnowPro.pdb
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/csc.exe
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/csc.exe.config
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/csc.rsp
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/csi.exe
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/csi.exe.config
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/csi.rsp
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CSharp.Core.targets
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.Managed.Core.targets
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.VisualBasic.Core.targets
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.AppContext.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Collections.Immutable.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Console.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Diagnostics.StackTrace.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.Compression.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.FileSystem.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.FileSystem.Primitives.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.Pipes.AccessControl.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.Pipes.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Reflection.Metadata.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.AccessControl.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Claims.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Cryptography.Encoding.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Cryptography.Primitives.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Principal.Windows.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Text.Encoding.CodePages.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.ValueTuple.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Xml.ReaderWriter.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Xml.XmlDocument.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Xml.XPath.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/System.Xml.XPath.XDocument.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/vbc.exe
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/vbc.exe.config
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/vbc.rsp
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/VBCSCompiler.exe
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/roslyn/VBCSCompiler.exe.config
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/AspNet.ScriptManager.jQuery.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.Build.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.Build.Framework.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/System.Collections.Immutable.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/System.IO.Compression.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/System.Threading.Tasks.Dataflow.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/cs/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/de/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/en/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/es/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/fr/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/it/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/ja/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/ko/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/pl/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/pt-BR/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/ru/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/tr/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/zh-Hans/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/bin/zh-Hant/Microsoft.Build.resources.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.csprojAssemblyReference.cache
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.csproj.CoreCompileInputs.cache
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.csproj.CopyComplete
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.dll
+E:/Study/Sem-4/COMP 2139 - Web Application C#/Assignment 1/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.pdb
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/TechKnowPro.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/TechKnowPro.pdb
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/csc.exe
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/csc.exe.config
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/csc.rsp
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/csi.exe
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/csi.exe.config
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/csi.rsp
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.AppContext.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Collections.Immutable.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Console.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.Compression.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.FileSystem.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.IO.Pipes.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Reflection.Metadata.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.AccessControl.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Claims.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.ValueTuple.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Xml.XPath.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/vbc.exe
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/vbc.exe.config
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/vbc.rsp
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/VBCSCompiler.exe
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/roslyn/VBCSCompiler.exe.config
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/AspNet.ScriptManager.jQuery.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/Microsoft.Build.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/Microsoft.Build.Framework.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/System.Collections.Immutable.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/System.IO.Compression.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/System.Threading.Tasks.Dataflow.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/cs/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/de/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/en/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/es/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/fr/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/it/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/ja/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/ko/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/pl/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/pt-BR/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/ru/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/tr/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/zh-Hans/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/bin/zh-Hant/Microsoft.Build.resources.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.csprojAssemblyReference.cache
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.csproj.CoreCompileInputs.cache
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.csproj.CopyComplete
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.dll
+/Users/ren/Documents/ASP.NET/TechKnowPro/TechKnowPro/obj/Debug/TechKnowPro.pdb
+E:\Projects\TechKnowPro\TechKnowPro\bin\TechKnowPro.dll.config
+E:\Projects\TechKnowPro\TechKnowPro\bin\TechKnowPro.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\TechKnowPro.pdb
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\csc.exe
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\csc.exe.config
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\csc.rsp
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\csi.exe
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\csi.exe.config
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\csi.rsp
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.AppContext.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Console.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.IO.Compression.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.IO.Pipes.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Security.Claims.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.ValueTuple.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\vbc.exe
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\vbc.exe.config
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\vbc.rsp
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\VBCSCompiler.exe
+E:\Projects\TechKnowPro\TechKnowPro\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\TechKnowPro\TechKnowPro\bin\AspNet.ScriptManager.jQuery.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\Microsoft.Build.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\Microsoft.Build.Framework.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\System.Collections.Immutable.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\System.IO.Compression.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\System.Threading.Tasks.Dataflow.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\TechKnowPro\TechKnowPro\bin\cs\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\de\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\en\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\es\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\fr\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\it\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\ja\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\ko\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\pl\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\pt-BR\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\ru\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\tr\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\zh-Hans\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\bin\zh-Hant\Microsoft.Build.resources.dll
+E:\Projects\TechKnowPro\TechKnowPro\obj\Debug\TechKnowPro.csprojAssemblyReference.cache
+E:\Projects\TechKnowPro\TechKnowPro\obj\Debug\TechKnowPro.csproj.CoreCompileInputs.cache
+E:\Projects\TechKnowPro\TechKnowPro\obj\Debug\TechKnowPro.csproj.CopyComplete
+E:\Projects\TechKnowPro\TechKnowPro\obj\Debug\TechKnowPro.dll
+E:\Projects\TechKnowPro\TechKnowPro\obj\Debug\TechKnowPro.pdb
